@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Farsizaman
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 👀 I’m interested in dart
+- 🌱 I’m currently learning flutter/dart
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me farsizaman45@gmail.com
 
